@@ -55,7 +55,7 @@ The director can:
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+   git clone https://github.com/MoKhalilNafati/kindergarten.git
    ```
 
 2. Open the solution file (.sln) in Visual Studio.
